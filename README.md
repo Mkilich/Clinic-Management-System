@@ -40,5 +40,7 @@ Contact
 For any inquiries or feedback, please contact the project maintainer:
 
 Name: Mehmet Kilic
+
 Email: mkilich27@gmail.com
+
 GitHub: Mkilich
